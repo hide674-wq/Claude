@@ -1,0 +1,49 @@
+{
+  "style": {
+    "proportion": "chibi, about 2.5 heads tall: the oversized hood/head is roughly 40% of the total height, short thick legs, large gloved hands, big chunky boots, a weapon that is nearly as long as the torso",
+    "rendering": "clean dark-brown outline of uniform weight, flat cel shading with a few soft gradient highlights, chunky simplified faceted shapes, muted warm palette with one strong accent colour, subtle metallic trim in tan/gold",
+    "composition": "single character, full body, standing, slight three-quarter front view, weapon held low in front, plain off-white (#EFEBE4) background with a faint ground shadow, portrait 3:4 canvas, no text, no frame"
+  },
+  "characters": [
+    {
+      "id": "mage",
+      "name": "魔法使い",
+      "description": "a young mage in a tall pointed indigo hat with a gold star emblem, oversized sleeves, a short purple cape, round spectacles-like glowing cyan eyes in the shadow of the hat, holding a crooked wooden staff topped with a glowing crystal"
+    },
+    {
+      "id": "archer",
+      "name": "弓使い",
+      "description": "a ranger with a green hood and feathered cap, a leaf-green scarf, leather vest and bracers, a quiver on the back, glowing amber eyes under the hood, holding a big recurve bow with an arrow nocked"
+    },
+    {
+      "id": "cleric",
+      "name": "僧侶",
+      "description": "a gentle healer in a white and gold mitre-like hood, long white robe with teal trim, a small round shield on the arm, soft glowing pink eyes, holding a heavy mace shaped like a golden sun"
+    },
+    {
+      "id": "ninja",
+      "name": "忍者",
+      "description": "a ninja in a dark navy hood with a metal forehead plate, a long red scarf flowing behind, light armour plates on shoulders and shins, glowing white eyes, holding a short kunai-like blade in a reverse grip"
+    },
+    {
+      "id": "dragon_knight",
+      "name": "竜騎士",
+      "description": "a heavy knight with a horned dragon-scale helmet in dark crimson and bronze, a big shoulder pauldron shaped like a dragon head, glowing orange eyes in the visor shadow, holding an oversized lance with a flag"
+    },
+    {
+      "id": "alchemist",
+      "name": "錬金術師",
+      "description": "an alchemist in a goggled brown hood, a stained apron with many pouches and glass vials on the belt, thick rubber gloves, glowing lime-green eyes, holding a bubbling flask in one hand and a wrench in the other"
+    },
+    {
+      "id": "robot_guard",
+      "name": "ロボ兵",
+      "description": "a small steel guard robot with a dome helmet hood, a single glowing yellow visor slit, riveted plates, a tattered blue cloak, holding a big rectangular tower shield and a short sword"
+    },
+    {
+      "id": "pirate",
+      "name": "海賊",
+      "description": "a pirate in a big black tricorn hat with a skull emblem pulled low over a shadowed face, glowing red eyes, a teal coat with brass buttons, a sash, holding an oversized cutlass"
+    }
+  ]
+}
